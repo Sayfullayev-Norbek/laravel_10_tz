@@ -23,7 +23,7 @@
 <h6>Eslatma!</h6>
 <p>Faqat uzi yaratgan postlarini tahrirlash olish va o‘chirish. Ixtiyoriy layk funksiyani ham.</p>
 
-<h3>Qo‘shimcha talablar: 3-qadam</h3>
+<h2>Qo‘shimcha talablar: 3-qadam</h2>
 <h5>Texnologiyalar:</h5>
 <p>•	Xavfsizlik: CSRF himoyasi.</p>
 <p>•	Ishlash Qobiliyati: Kichik hajmdagi foydalanuvchi bazasi bilan ishlay olishi va tartibli struktura tuzish.Table va column  nomlanishlarga e’tibor berish.</p>
