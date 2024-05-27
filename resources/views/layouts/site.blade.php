@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="{{ asset("css/main.css")}} ">
 </head>
 <body>
-  
+
   <div class="menu-mask"></div>
     <main>
         <header class="main-header">
@@ -33,7 +33,7 @@
                     </div>
                     </div>
                     <div class="telegram-join basic-flex">
-                    <a href="#"><img src="img/tg.png" alt="Telegram">Подписатся</a>
+                    <a href="{{ route('register.create') }}">Tizimga kirish</a>
                     </div>
                 </div>
                 </div>
